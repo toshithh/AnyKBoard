@@ -1,12 +1,14 @@
 # AnyKBoard Server
 
+<p align="center">
+<img src="composeApp/src/jvmMain/composeResources/drawable/akb_logo.png" width="40%" />
+</p>
+
 **AnyKBoard Server** is the desktop companion app for **AnyKBoard App**.  
 It allows you to use your smartphone as a **wireless keyboard and clipboard input device** over a local network.
 
 Designed for developers, security testers, and hardware enthusiasts.
 
-![](composeApp/src/jvmMain/composeResources/drawable/akb_logo.png)
----
 
 ## Features
 
